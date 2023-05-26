@@ -1,0 +1,2 @@
+# SparkDashboard
+Dashboard for Spark
